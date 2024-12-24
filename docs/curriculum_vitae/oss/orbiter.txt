@@ -1,0 +1,5 @@
+- Designed a custom context-free grammar system and expression parser with flex and bison for performing symbolic algebraic operations with Finite Field objects through successive graph rewrites based on rewrite rules.
+        
+- Solved two of the fundamental limitations of the visitor design pattern with 20\% improvement in performance used in evaluation of expression trees over Finite Fields by using C++ template programming and automatic return type deduction.
+
+- Built a parallel graph execution engine to automatically divide and schedule a Finite Field computation graph on parallel processors

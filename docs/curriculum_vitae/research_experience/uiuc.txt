@@ -1,0 +1,11 @@
+Research Software Engineer
+
+- Led Quantitative Light Imaging Laboratory's (QLI) efforts in software development for data acquisition and analysis, including software-hardware interfacing for microscopy systems and development and deployment of AI tools for solving biomedical problems under the supervision of the late ***Dr. Gabriel Popescu***.
+
+- Work closely with doctoral students from interdisciplinary research groups to develop new ML models for biomedical research with Spatial Light Interference Microscopy (SLIM) imaging modality.
+
+- Ensured accurate and reliable data acquisition for extended imaging sessions of live and suspension cell cultures by leading the development efforts to solve the focus drift and tracking problem by developing and integrating new ML models into the C++ acquisition system using ONNX to provide a common format for ML model computation graphs, TensorRT for GPU kernel auto-tuning and computation graph optimization, CUDA, NVIDIA NPP for image processing in the inference pipeline, and cuDNN.
+
+- Accelerated the application of AI to biomedical problems by designing an AutoML system as part of an internal tooling initiative to streamline the process of network architecture search, hyper-parameter tuning, and inference time optimization to be run on the NCSA (National Center for Supercomputing Application) compute clusters.
+
+- Reduced time and energy expended on manual data curation efforts by field experts by building an AI driven decision-making systems for intelligent image triggered acquisition by having the system eliminate frames with redundant or little to no information during the acquisition of live samples in bioreactor environments.

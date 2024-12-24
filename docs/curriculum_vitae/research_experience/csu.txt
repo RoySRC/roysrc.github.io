@@ -1,0 +1,15 @@
+Performance Software Engineer
+
+- Worked as a research assistant and performance software engineer under ***Dr. Anton Betten*** on optimizing the performance of Orbiter Computer Algebra system for classification of combinatorial objects.
+	
+- Wrote object-oriented machine learning and BLAS templated library using CUDA C++. Standard BLAS packages could not be used as operations on group elements is not the same as operations on real numbers.
+
+- Used Deep Reinforcement Learning (DRL) with Graph Embeddings to optimize the Poset Classification algorithm by generating shallow Schreier trees.
+
+- Developed object-oriented CUDA C++ code for accelerating rainbow clique backtrack searches on large graphs of more than 50,000 vertices
+
+- Quadrupled the speed of polynomial long division used in Cyclic Redundancy Check by developing an equivalent parallel algorithm in CUDA C++.	
+
+- Implemented multithreaded CPU and CUDA versions of group theory algorithms to be run on Summit HPC Clusters
+
+- Optimized graph theory algorithm implementation by an order of magnitude by making the underlying data structure more cache friendly.
